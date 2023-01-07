@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/Tolexia/learning-react)
+- Live Site URL: [Github Page](https://tolexia.github.io/learning-react/)
 
 ## My process
 
