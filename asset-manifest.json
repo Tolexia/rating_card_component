@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/learning-react/static/css/main.7aabd4d4.css",
+    "main.js": "/learning-react/static/js/main.23f2cc8e.js",
+    "static/js/787.0e6dc9a4.chunk.js": "/learning-react/static/js/787.0e6dc9a4.chunk.js",
+    "static/media/Overpass.ttf": "/learning-react/static/media/Overpass.77b8fb6d913d0143a11f.ttf",
+    "static/media/illustration-thank-you.svg": "/learning-react/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/learning-react/index.html",
+    "static/media/icon-star.svg": "/learning-react/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.7aabd4d4.css.map": "/learning-react/static/css/main.7aabd4d4.css.map",
+    "main.23f2cc8e.js.map": "/learning-react/static/js/main.23f2cc8e.js.map",
+    "787.0e6dc9a4.chunk.js.map": "/learning-react/static/js/787.0e6dc9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aabd4d4.css",
+    "static/js/main.23f2cc8e.js"
+  ]
+}
