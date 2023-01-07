@@ -1,0 +1,22 @@
+.Star {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 50%;
+    padding:12px 15px;
+    background:hsl(208deg 24% 20% / 75%);
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.Star:hover {
+    background:hsl(217, 12%, 63%);
+    color:hsl(0, 0%, 100%)
+}
+
+.Star.active {
+    background:hsl(25, 97%, 53%);
+}
+.Star.active svg path{
+    fill:hsl(0, 0%, 100%)
+}

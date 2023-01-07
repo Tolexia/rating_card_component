@@ -1,0 +1,15 @@
+@font-face {
+  font-family: overpass;
+  src: url('../fonts/Overpass.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: overpass;
+  background-color: hsl(216, 12%, 8%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

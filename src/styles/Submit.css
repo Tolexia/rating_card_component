@@ -1,0 +1,18 @@
+.Submit {
+    background: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
+    width: 95%;
+    margin: auto;
+    text-align: center; 
+    border-radius: 25px;
+    border: none;
+    padding:12px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.Submit:hover {
+    background: hsl(0, 0%, 100%);
+    color:hsl(25, 97%, 53%);
+}
