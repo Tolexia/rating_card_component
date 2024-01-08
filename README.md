@@ -1,7 +1,7 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). 
-This is also my very first React app. I'm open to all suggestions and improvements.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).  
+This is also my very first React app. I'm open to all suggestions and improvements.  
 
 
 ## Table of contents
@@ -30,15 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot1.png)
-![](./screenshot2.png)
-
+![](./rating_card_component_1.png)
+![](./rating_card_component_2.png)
 
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/Tolexia/learning-react)
-- Live Site URL: [Github Page](https://tolexia.github.io/learning-react/)
+- Live Site URL: [Github Page](https://tolexia.github.io/learning-react/)  
 
 ## My process
 
